@@ -1,5 +1,9 @@
 # KRX :: Change Log
 
+* 2016-0804: 0.31.1 (Eskandare) for KSP 1.1.3
+	+ Minor Update
+		- Fixed Crash Tolerance on Fenestron tail rotor
+		- Fixed Spelling Error on Osprey rotors
 * 2016-0729: 0.31 (Eskandare) for KSP 1.1.3
 	+ Added Fenestron tail rotor
 	+ Corrected the direction of the Osprey rotors
