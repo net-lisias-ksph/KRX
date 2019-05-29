@@ -1,4 +1,4 @@
-# KRX - Kerbal Rotor Expansion :: UNNOFICIAL
+# KRX - Kerbal Rotor Expansion :: UNOFFICIAL
 
 This is a unofficial, non authorized repository for **KRX - Kerbal Rotor Expansion** for historical reference and troubleshooting.
 
